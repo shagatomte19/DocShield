@@ -48,7 +48,7 @@ document_redaction/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/docshield.git
+   git clone https://github.com/shagatomte19/docshield.git
    cd docshield
    ```
 
@@ -87,7 +87,7 @@ Add new regex patterns in `config/settings.py`:
 
 ```python
 NEW_PATTERNS = [
-    r"your-regex-pattern-here"
+    r"new-regex-pattern-here"
 ]
 ```
 
@@ -162,7 +162,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Enamul Hasan Shagato**
 - AI/ML Engineer
 - Document Processing Specialist
-- [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+- [GitHub](https://github.com/shagatomte19) | [LinkedIn](https://linkedin.com/in/shagatomte19)
 
 ## ⭐ Show your support
 
