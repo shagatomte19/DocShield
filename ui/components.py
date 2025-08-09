@@ -274,7 +274,7 @@ class UIComponents:
         <div class="feature-card">
             <h4>⚠️ Limitations</h4>
             <ul>
-                <li>OCR quality affects accuracy in Streanlit(CPU Only)</li>
+                <li>OCR quality affects accuracy in Streamlit(CPU Only)</li>
                 <li>Handwritten text may not be detected</li>
                 <li>Complex layouts may cause issues</li>
                 <li>Always manual review recommended</li>
@@ -287,8 +287,9 @@ class UIComponents:
         st.markdown("""
         <div class="footer">
             <hr>
-            <p>🚀 Made with ❤️ by <strong>Enamul Hasan Shagato</strong></p>
-            <p><small>AI-Powered Document Redaction System | Protecting Your Privacy</small></p>
+            <p>🚀 Made with ❤️ by <strong><a href="https://www.linkedin.com/in/shagatomte19/" target="_blank">Enamul Hasan Shagato</a></strong></p>
+            <p><small>🔒 DocShield | Protecting Your Privacy</small></p>
         </div>
 
         """, unsafe_allow_html=True)
+
