@@ -28,7 +28,7 @@ class UIComponents:
         """Render the main header"""
         st.markdown("""
         <div class="main-header">
-            <h1>🔒 AI-Powered Document Redaction System</h1>
+            <h1>🔒 DocShield</h1>
             <p>Securely redact sensitive information from your PDF documents</p>
         </div>
         """, unsafe_allow_html=True)
@@ -290,4 +290,5 @@ class UIComponents:
             <p>🚀 Made with ❤️ by <strong>Enamul Hasan Shagato</strong></p>
             <p><small>AI-Powered Document Redaction System | Protecting Your Privacy</small></p>
         </div>
+
         """, unsafe_allow_html=True)
