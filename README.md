@@ -161,7 +161,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Enamul Hasan Shagato**
 - AI/ML Engineer
-- Document Processing Specialist
 - [GitHub](https://github.com/shagatomte19) | [LinkedIn](https://linkedin.com/in/shagatomte19)
 
 ## ⭐ Show your support
