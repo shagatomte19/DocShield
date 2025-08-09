@@ -1,13 +1,11 @@
 """
-Core processing modules for Document Redaction System
+UI components and styling for Document Redaction System
 """
 
-from .ocr_processor import OCRProcessor
-from .redactor import TextRedactor
-from .file_handler import FileHandler
+from .components import UIComponents
+from .styles import CUSTOM_CSS
 
 __all__ = [
-    'OCRProcessor',
-    'TextRedactor',
-    'FileHandler'
+    'UIComponents',
+    'CUSTOM_CSS'
 ]
